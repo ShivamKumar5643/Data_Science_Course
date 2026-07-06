@@ -1,0 +1,21 @@
+course_id,course_code,course_name,credits,department_id
+1,CS201,Data Structures and Algorithms,4,1
+2,CS202,Operating Systems,4,1
+3,CS203,Database Management Systems,3,1
+4,DS201,Data Analysis with Python,3,2
+5,DS202,Machine Learning,4,2
+6,DS203,Statistics for Data Science,3,2
+7,AI201,Introduction to Artificial Intelligence,3,3
+8,AI202,Deep Learning Fundamentals,4,3
+9,AI203,Natural Language Processing,3,3
+10,IT201,Computer Networks,3,4
+11,IT202,Cloud Computing,4,4
+12,IT203,Cyber Security Fundamentals,3,4
+13,EC201,Digital Electronics,3,5
+14,EC202,Microprocessors and Interfacing,4,5
+15,EC203,Communication Systems,3,5
+16,CS204,Software Engineering,3,1
+17,DS204,Big Data Analytics,4,2
+18,AI204,Computer Vision,4,3
+19,IT204,Web Technologies,3,4
+20,EC204,Signal Processing,4,5
