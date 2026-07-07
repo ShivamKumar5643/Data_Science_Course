@@ -1,0 +1,14 @@
+product_id,product_name,category,price,stock
+P102,Mechanical Keyboard,Electronics,3500,30
+P104,Office Chair,Furniture,7000,15
+P106,Monitor 24 inch,Electronics,12000,20
+P107,Study Table,Furniture,9500,10
+P111,Bluetooth Speaker,Electronics,4500,25
+P112,Desk Lamp,Furniture,2200,35
+P113,Headphones,Electronics,2800,45
+P115,Smart Watch,Electronics,8000,18
+P116,Webcam,Electronics,2200,40
+P117,Gaming Chair,Furniture,15000,8
+P121,LED TV,Furniture,30000,12
+P122,Printer,Electronics,8500,14
+P125,External HDD,Electronics,6500,22
